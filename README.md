@@ -1,2 +1,2 @@
 # model-repository
-Predictions of MHC Class I molecules
+Predictions of MHC molecules
