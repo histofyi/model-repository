@@ -1,0 +1,20 @@
+2022-11-06 13:59:32,551 Found 5 citations for tools or databases
+2022-11-06 13:59:37,306 Query 1/1: hla_b_35_08_col (length 374)
+2022-11-06 13:59:37,900 Sleeping for 7s. Reason: PENDING
+2022-11-06 13:59:45,494 Sleeping for 8s. Reason: RUNNING
+2022-11-06 13:59:54,088 Sleeping for 5s. Reason: RUNNING
+2022-11-06 13:59:59,663 Sleeping for 6s. Reason: RUNNING
+2022-11-06 14:00:06,262 Sleeping for 10s. Reason: RUNNING
+2022-11-06 14:00:16,856 Sleeping for 8s. Reason: RUNNING
+2022-11-06 14:00:25,439 Sleeping for 7s. Reason: RUNNING
+2022-11-06 14:00:33,037 Sleeping for 5s. Reason: RUNNING
+2022-11-06 14:00:38,610 Sleeping for 5s. Reason: RUNNING
+2022-11-06 14:00:44,191 Sleeping for 10s. Reason: RUNNING
+2022-11-06 14:00:57,205 Sleeping for 8s. Reason: PENDING
+2022-11-06 14:01:05,806 Sleeping for 7s. Reason: RUNNING
+2022-11-06 14:01:13,390 Sleeping for 9s. Reason: RUNNING
+2022-11-06 14:01:22,982 Sleeping for 5s. Reason: RUNNING
+2022-11-06 14:01:30,941 Running model_1
+2022-11-06 14:02:17,265 model_1 took 46.3s (3 recycles) with pLDDT 94.7, ptmscore 0.907 and iptm 0.915
+2022-11-06 14:02:24,425 reranking models by multimer
+2022-11-06 14:02:26,799 Done

@@ -1,0 +1,6 @@
+2022-11-06 12:55:30,789 Found 5 citations for tools or databases
+2022-11-06 12:55:35,472 Query 1/1: hla_a_03_01_col (length 374)
+2022-11-06 12:55:40,904 Running model_1
+2022-11-06 12:56:27,587 model_1 took 46.7s (3 recycles) with pLDDT 94.7, ptmscore 0.904 and iptm 0.911
+2022-11-06 12:56:34,432 reranking models by multimer
+2022-11-06 12:56:36,786 Done
